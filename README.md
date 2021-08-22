@@ -41,12 +41,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- Java [Maven,Gradle,JSF,Spring,Hibernate]
-- Dart [Flutter,Android,Firebase,GenyMotion]
-- JavaScript [React,TypeScript,NextJS,Hooks,NPM]
-- Python [SVM,Turtle]
-- HTML5 [
-
 [Enviroment Tools]
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,13 +58,6 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-
-- Database [PostgreSQL,MongoDB,MYSQL,SQLite]
-- Rest API [Postman,Insomnia]
-- Enviroments [Docker,Ubuntu,Windows]
-- IDEs [VSCode,Intelij,PyCharm,Netbeans]
-- Servers [Payara,GlassFish,Apache,Nginx]
-
 [Development Tools]
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -83,8 +70,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-- Version Control [Github,GitLab,BitBucket]
-- DevOps [Heroku,Vercel,GH Pages]
-- Productivity [Trello,Figma,Whimsical,Jira]
-
