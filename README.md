@@ -1,5 +1,7 @@
 ### Hi there, my name is Gianluca Campos 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianlucampos" alt="Gianluca Campos" /> </p> -->
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
