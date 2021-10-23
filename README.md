@@ -11,14 +11,6 @@
   </a>
 </p> -->
 
-## My Resume
-
-- 🔭 I’m currently working on RPA projects at @BotCity
-- 🌱 I’m currently learning Front-End Techniques and Frameworks
-- 👯 I’m looking to collaborate on Web Development
-- ⚡ Fun fact: I dont drink coffee 
-
-
 ## 📫 How to reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianlucampos97@gmail.com)
