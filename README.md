@@ -1,21 +1,17 @@
-## 📫 Contact me on
+## 📫 Contact me on 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianlucampos" alt="Gianluca Campos" /> </p> -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianlucampos97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianlucampos/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gianlucampos/)
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucampos&layout=compact&show_icons=true&hide_border=true"
     />
   </a>
-</p> -->
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianlucampos97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianlucampos/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gianlucampos/)
-
+</p> 
 
 ## Languages & Frameworks
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/stars/gianlucampos/lists/python)
